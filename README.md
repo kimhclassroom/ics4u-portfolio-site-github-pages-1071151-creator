@@ -1,20 +1,21 @@
-# ICS4U-portfolio-template
-ICS4U Portfolio Template - to be used by students taking ICS4U
+# Project overview
+  A simple solo mini pong game
 
-Welcome! This is your starting point for creating your GitHub Pages portfolio.  
+# The project includes:
+- One platform that is controlled with a keyboard.  
+- A moving ball.
+- A score.
+  
+# What the project does
+- The ball moves, changing direction when touching the edges of the screen or the platform. 
+- The platform can move left and right, and is controlled by a keyboard.
+- Each time the ball touches the platform score is incremented by 1.
+- The game ends when the ball reaches the bottom of the screen.
+- The game be restarted with a press of a "start" button.
 
-# How to Edit Your Website
-- Edit `index.md` to customize your homepage.  
-- Add reflections in the `posts/` folder after completing each unit or project.
-- [optional] You may also write additional reflections whenever you like.
-- Put images(e.g.,screenshots of your work) in the `assets/` folder. You can reference images like `![Alt text](./assets/my-image.png)`.
-- Commit your changes, then refresh your GitHub Pages site to see updates.
+# How to run it
+- Press start button.
+- Enter a name.
 
-# How to Publish Your Website
-- Go to your repository → **Settings** (top navigation bar) → **Pages**(left panel).
-- Select `main` branch and root(`/`). Click **Save**.
-- Wait a few minutes; your site will be live at the URL shown in the Pages settings.
-
-# Notes
-- Your reflections are written in Markdown. A Markdown cheatsheet is posted on D2L to help with formatting.
-- Your site may take a few minutes to update after each commit. *A commit means saving your changes to GitHub*
+# Goal
+- Get the highest score.
